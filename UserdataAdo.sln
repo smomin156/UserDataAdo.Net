@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserdataAdo", "UserdataAdo\UserdataAdo.csproj", "{6C23765E-9284-46C2-AD1E-63F245C446E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbLibrary", "DbLibrary\DbLibrary.csproj", "{9FC25FA8-3931-4006-9658-7FA468C7874E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C23765E-9284-46C2-AD1E-63F245C446E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C23765E-9284-46C2-AD1E-63F245C446E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C23765E-9284-46C2-AD1E-63F245C446E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C23765E-9284-46C2-AD1E-63F245C446E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC25FA8-3931-4006-9658-7FA468C7874E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC25FA8-3931-4006-9658-7FA468C7874E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC25FA8-3931-4006-9658-7FA468C7874E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC25FA8-3931-4006-9658-7FA468C7874E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8D44AB-DA1C-4D9A-8347-1CB95CAF3A2E}
+	EndGlobalSection
+EndGlobal

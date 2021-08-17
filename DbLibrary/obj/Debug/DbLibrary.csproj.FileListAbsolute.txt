@@ -1,0 +1,6 @@
+D:\training\UserdataAdo\DbLibrary\bin\Debug\DbLibrary.dll
+D:\training\UserdataAdo\DbLibrary\bin\Debug\DbLibrary.pdb
+D:\training\UserdataAdo\DbLibrary\obj\Debug\DbLibrary.csproj.AssemblyReference.cache
+D:\training\UserdataAdo\DbLibrary\obj\Debug\DbLibrary.csproj.CoreCompileInputs.cache
+D:\training\UserdataAdo\DbLibrary\obj\Debug\DbLibrary.dll
+D:\training\UserdataAdo\DbLibrary\obj\Debug\DbLibrary.pdb
